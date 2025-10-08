@@ -62,7 +62,7 @@ public:
 	    if (GetKey(olc::ESCAPE).bReleased) return false;
 		//	Regenarate maze
     	if (GetKey(olc::R).bPressed) {
-    	    srand(time(nullptr)); // new random seed
+    	    srand(time(nullptr));
     	    ResetMaze();
     	}
 	
