@@ -20,13 +20,6 @@ The maze is generated in real-time, showing the carving process cell by cell wit
 
 ---
 
-## 🖼️ Demo
-![Maze Generation Screenshot](docs/maze_screenshot.png)
-
-*(Add your own screenshot or GIF here once you capture it)*
-
----
-
 ## 🧠 Algorithm Summary
 The maze is built using the **Recursive Backtracker** method:
 
