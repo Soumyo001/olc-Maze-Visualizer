@@ -41,6 +41,7 @@ Make sure you have:
 - A C++17 compiler (e.g. `g++`, `clang++`, or MSVC)
 - [olcPixelGameEngine.h](https://github.com/OneLoneCoder/olcPixelGameEngine) in your project directory
 - On Linux, install required dependencies:
+
   ```bash
   sudo pacman -S base-devel libpng mesa glu
   ```
