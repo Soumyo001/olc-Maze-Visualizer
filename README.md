@@ -72,6 +72,8 @@ Then run:
 .
 ├── maze-recreate.cpp         # Source file
 ├── olcPixelGameEngine.h      # External header (by javidx9)
+├── docs/
+│   └── maze_demo.gif
 └──  README.md                
 ```
 
