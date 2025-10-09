@@ -92,12 +92,12 @@ public:
 	        }
 	    }
 	
-	    Clear(olc::DARK_BLUE);
+	    Clear(olc::VERY_DARK_GREEN);
 	
 	    for (int y = 0; y < m_mazeHeight; y++) {
 	        for (int x = 0; x < m_mazeWidth; x++) {
 	            olc::Pixel col = (m_maze[y * m_mazeWidth + x] & CELL_VISITED)
-	                             ? olc::WHITE : olc::BLUE;
+	                             ? olc::WHITE : olc::GREEN;
 	            FillRect(x * (m_pathWidth + 1),
 	                     y * (m_pathWidth + 1),
 	                     m_pathWidth, m_pathWidth, col);
@@ -114,7 +114,7 @@ public:
 	        }
 	    }
 		
-		DrawString(4, 4, "Press R to regenerate & ESC to quit", olc::RED);
+		DrawString(4, 4, "Press R to regenerate & ESC to quit", olc::BLUE);
 	    return true;
 	}
 

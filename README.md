@@ -10,6 +10,11 @@ The maze is generated in real-time, showing the carving process cell by cell wit
 
 ---
 
+## 🖼️ Demo
+<img src="docs/output.gif" alt="Maze Generation Demo" width="600" height="400">
+
+---
+
 ## ✨ Features
 - 🧱 **Depth-First Search (Backtracker)** maze generation  
 - 🎨 **Animated visualization** using `olcPixelGameEngine`  
