@@ -1,4 +1,4 @@
-# Maze_Recreate 🧩
+# Simple_Maze 🧩
 A visually animated **maze generation algorithm** built with the **olcPixelGameEngine** (by [javidx9](https://github.com/OneLoneCoder)) — rewritten from scratch in C++ for cross-platform environments such as **EndeavourOS (Linux)**, **Windows**, and **macOS**.
 
 ---
