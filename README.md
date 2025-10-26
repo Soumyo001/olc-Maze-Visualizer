@@ -1,5 +1,13 @@
-# olc-Maze-Visualizer 🧩
-A visually animated **maze generation algorithm** built with the **olcPixelGameEngine** (by [javidx9](https://github.com/OneLoneCoder)) — rewritten from scratch in C++ for cross-platform environments such as **EndeavourOS (Linux)**, **Windows**, and **macOS**.
+# 🧩 olc-Maze-Visualizer — C++ Maze Generation & Visualization using olcPixelGameEngine
+
+A real-time **maze generation visualizer** written in **C++17** using the [**olcPixelGameEngine**](https://github.com/OneLoneCoder/olcPixelGameEngine) by *javidx9*.  
+It demonstrates the **Recursive Backtracker (Depth-First Search)** maze algorithm with smooth graphical animation — fully cross-platform on **Linux**, **Windows**, and **macOS**.
+
+---
+
+<p align="center">
+  <img src="docs/output.gif" alt="Maze Generation Demo" width="500">
+</p>
 
 ---
 
